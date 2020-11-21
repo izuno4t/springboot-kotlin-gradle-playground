@@ -1,4 +1,4 @@
-package com.example.gradle5kotlin
+package com.example
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
